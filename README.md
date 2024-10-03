@@ -164,6 +164,15 @@ int main() {
 ```
 ## Output
 
+Area-
+
+![Screenshot 2024-10-03 234844](https://github.com/user-attachments/assets/4c4aaf0f-ad2e-4f43-9aa6-55d71c61f56c)
+
+
+Constructor-
+
+
+
 
 
 
