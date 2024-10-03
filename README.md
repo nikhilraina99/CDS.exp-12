@@ -168,13 +168,32 @@ Area-
 
 ![Screenshot 2024-10-03 234844](https://github.com/user-attachments/assets/4c4aaf0f-ad2e-4f43-9aa6-55d71c61f56c)
 
-
 Constructor-
 
+![Screenshot 2024-10-03 234927](https://github.com/user-attachments/assets/4606fd9b-5e97-4064-81ec-4557a9108790)
 
+Copy Constructor-
 
+![Screenshot 2024-10-03 235045](https://github.com/user-attachments/assets/1d742153-4aa0-4613-9b57-df518bfe5a12)
 
+Default Arguments-
 
+![Screenshot 2024-10-03 235128](https://github.com/user-attachments/assets/161f75ea-fbc2-4b17-9e04-f5a1e569fb4f)
+
+Destructor-
+
+![Screenshot 2024-10-03 235210](https://github.com/user-attachments/assets/34c59e40-40d9-44a5-8c65-f6f2e87c1456)
+
+Parameterised Constructor-
+
+![Screenshot 2024-10-03 235244](https://github.com/user-attachments/assets/b7f3471c-0a2a-4f7c-ae8a-833f4044682d)
+
+## Conclusion
+
+- **Constructor**: We learned to define and use constructors, including parameterized constructors.
+- **Copy Constructor**: We explored the concept of copy constructors.
+- **Default Arguments**: We learned to use default arguments in constructors.
+- **Destructor**: We studied the role and usage of destructors in managing object lifecycle.
 
 
 
